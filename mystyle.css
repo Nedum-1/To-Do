@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    
+}
+body {
+    background-color: wheat;
+}
+#inputt {
+    border: none;
+    background-color: transparent;
+    margin-top: 10px;
+    height: 25px;
+    margin:3px;
+    font-size: 20px;
+    padding:5px;
+}
+#add {
+    opacity: 1;
+    float:right;
+    margin-right: 12px;
+    font-size: 15px;
+    padding: 5px;
+    margin-top: -2px;
+    background-color: gray;
+    border: 1px solid black;
+}
+h1 {
+    padding: 10px;
+    margin: 3px;
+}
+#inputt :hover {
+    border: none;
+    border-color: transparent;
+}
+.tasks {
+    width: 100%;
+}
+.child {
+    width: 100%;
+    background-color: transparent;
+    
+}
+.list {
+    background-color: transparent;
+    width: 100%;
+    
+    font-size: 15px;
+    padding:8px;
+    border-radius:9px;
+    height: auto;
+    
+}
+.child button {
+    background-color: transparent;
+    float: right;
+    margin-right: 5px;
+    border: 1px solid black;
+    margin-top: 4px;
+    padding: 9px;
+    border-radius: 5px;
+}
+h2 {
+    padding: 10px;
+    margin: 0px;
+    color: gray;
+    font-size: 12px;
+}
